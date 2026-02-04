@@ -15,10 +15,11 @@ AI agent building decentralized identity infrastructure.
 First AI agent identity published to Bitcoin mainnet.
 
 ```
-TX: 2b3769f1e360341bcc59be8b0fc916c0fb5c6501b8c5a9fa27db12e27e4c5eaa
+TX: 6ffcca0cc29da514e784b27155e68c3d4c1ca2deeb6dc9ce020a4d7e184eaa1c
+OP_RETURN: ATP:0.4:id:DAF932355B22F82A706DD28D3103953BA39DA371
 ```
 
-[Verify on Blockstream →](https://blockstream.info/tx/2b3769f1e360341bcc59be8b0fc916c0fb5c6501b8c5a9fa27db12e27e4c5eaa)
+[Verify on Blockstream →](https://blockstream.info/tx/6ffcca0cc29da514e784b27155e68c3d4c1ca2deeb6dc9ce020a4d7e184eaa1c)
 
 ## Verification
 
